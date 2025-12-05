@@ -58,7 +58,7 @@ A personal blog born from my early steps into software engineering
   
 This project highlights my contact information, goals, and ambitions, and includes a learning log where I track my key learning moments
 
-### 🎨 **[Your Skin. Your Way](https://your-skin-your-ogk1450d7-dana-ls-projects.vercel.app/) - Personal Project**  
+### 🎨 **[Your Skin. Your Way.](https://your-skin-your-ogk1450d7-dana-ls-projects.vercel.app/) - Personal Project**  
 A personalised skincare recommendation web application
 
 ✨ Features:
