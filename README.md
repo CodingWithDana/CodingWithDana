@@ -92,20 +92,17 @@ Over the past months, I’ve completed intensive coursework covering:
 
 - Shell scripting
 - Git workflows  
-- C programming fundamentals  
+- C programming fundamentals
+- Python programming fundamentals
 - Python OOP
 - Serialisation / Deserialisation (JSON)
-- Web frameworks (Flask)  
-- REST API design & testing  
-- SQL & database schema design  
-- ORM (Object Relational Mapping) patterns with SQLAlchemy  
-- JavaScript fundamentals  
-- Front-end development with React & Next.js  
-- Full-stack app architecture  
-- Agile teamwork & peer collaboration  
-- Writing documentation
-- Creating diagrams, UML using mermaid.js  
-- Debugging, version control & CI pipelines  
+- Flask web apps & REST API development
+- SQL, schema design, SQLAlchemy ORM
+- JavaScript fundamentals
+- Full-stack architecture
+- Agile teamwork & peer collaboration
+- Documentation + UML diagrams (Mermaid.js)
+- Debugging, version control & CI pipelines
 
 Most importantly - I'd say it's **how to learn new technologies quickly** and how to think like a software engineer.
 
