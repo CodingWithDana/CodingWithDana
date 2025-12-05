@@ -112,13 +112,12 @@ Most importantly - I'd say it's **how to learn new technologies quickly** and ho
 ---
 
 ## 🔥 GitHub Streak & Activity  
-I take pride in showing up every day — writing code, fixing bugs, growing incrementally.  
+I take pride in showing up every day - writing code, fixing bugs, growing incrementally.  
 My GitHub streak captures that dedication:
 
 📅 **Coding daily**  
-🧪 **Testing ideas**  
 🧠 **Documenting my progress**  
-🚀 **Building towards mastery**
+🚀 **Building with intention**
 
 ---
 
