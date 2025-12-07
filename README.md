@@ -3,7 +3,7 @@
 ---
 
 ## 🌱 My Story  
-I’m a **CPA-qualified accountant** who spent four years working with numbers, processes, and business operations in the tech and hospitality space, until I discovered something life-changing:
+I’m a **CPA-qualified accountant** who spent four years working with numbers and business operations in the tech and hospitality space, until I discovered something life-changing:
 
 > ✨ **I love building things.**  
 > **Things I use daily.**  
@@ -72,16 +72,6 @@ A full-stack web application built collaboratively
 - Agile teamwork & peer collaboration
 - Documentation + UML diagrams (Mermaid.js)
 - Debugging, version control & CI pipelines
-
----
-
-## 🔥 GitHub Streak & Activity  
-I take pride in showing up every day - writing code, fixing bugs, growing incrementally.  
-My GitHub streak captures that dedication:
-
-📅 **Coding daily**  
-🧠 **Documenting my progress**  
-🚀 **Building with intention**
 
 ---
 
