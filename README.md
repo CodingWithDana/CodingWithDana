@@ -42,7 +42,6 @@ I’m now fully transitioning into a career in software development, where I bri
 - 🔍 APIs: REST APIs / Postman / curl
 - 🧰 IDEs & Terminal: VSCode / Vim / Emacs / Warp / Unix
 - ☁️ Deployment: Vercel
-- 🤝 Workflow: Trello / Slack
   
 ---
 
@@ -50,46 +49,17 @@ I’m now fully transitioning into a career in software development, where I bri
 ### 👩‍💻 **[itsdanale.com](https://itsdanale.com/) - Personal Project** 
 A personal blog born from my early steps into software engineering
 
-✨ Features:
-- Single-page personal bio composed of modular cards: profile/ contact info, skills grid with icon badges and dated learning log
-- Reusable UI components (cards)
-- Responsive layout for both desktop and mobile devices 
-- Footer with current year rendered dynamically
-  
-This project highlights my contact information, goals, and ambitions, and includes a learning log where I track my key learning moments
 
 ### 🎨 **[Your Skin. Your Way.](https://your-skin-your-ogk1450d7-dana-ls-projects.vercel.app/) - Personal Project**  
 A personalised skincare recommendation web application
 
-✨ Features:
-- Dynamic question flow  
-- Suggestion engine using filtering + scoring logic  
-- Reusable UI components (cards, buttons, image modules)  
-- Clean folder architecture    
-- Maps user answers to curated product suggestions  
-
-This project represents my creativity, independence, and ability to build an end-to-end product from scratch.
 
 ### 🏡 **HBnB (Airbnb Clone) - Holberton Group Project**  
-A full-stack web application built collaboratively, featuring:
-
-✨ Features:
-- RESTful backend in **Flask + Flask-RESTx**
-- Passwords hashed via flask_bcrypt
-- Custom **JWT authentication**
-- SQLAlchemy ORM + Repository + Business Logic Layer (Facade Pattern)
-- CRUD operations for Users, Reviews, Places, Amenities
-- Complete front-end UI built with HTML/CSS/JS
-- Dockerised development environment  
-- CI workflows & automated testing
-
-This has been my biggest growth experience — designing APIs, debugging collaboratively, writing clean code, testing thoroughly, and working asynchronously while ensuring consistent shared logic across all connected features.
+A full-stack web application built collaboratively
 
 ---
 
 ## 📚 Bootcamp at Holberton School - What I’ve Learned  
-Over the past months, I’ve completed intensive coursework covering:
-
 - Shell scripting
 - Git workflows  
 - C programming fundamentals
@@ -99,12 +69,9 @@ Over the past months, I’ve completed intensive coursework covering:
 - Flask web apps & REST API development
 - SQL, schema design, SQLAlchemy ORM
 - JavaScript fundamentals
-- Full-stack architecture
 - Agile teamwork & peer collaboration
 - Documentation + UML diagrams (Mermaid.js)
 - Debugging, version control & CI pipelines
-
-Most importantly - I'd say it's **how to learn new technologies quickly** and how to think like a software engineer.
 
 ---
 
@@ -115,15 +82,6 @@ My GitHub streak captures that dedication:
 📅 **Coding daily**  
 🧠 **Documenting my progress**  
 🚀 **Building with intention**
-
----
-
-## 👀 What I’m Exploring Next  
-- Deepening my backend expertise
-- Improving UI/UX design skills  
-- Deploying larger, more complex apps to Vercel
-- Strengthening automated testing practices  
-- Participating in more open-source projects
 
 ---
 
