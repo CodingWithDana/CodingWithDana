@@ -61,4 +61,4 @@ A full-stack web application built collaboratively
 
 ## 🎯 My Fave Quote
 > ✨ **“Stay Hungry. Stay Foolish.”**  
-> <sub>— Steve Jobs</sub>
+> <sub>- Steve Jobs</sub>
