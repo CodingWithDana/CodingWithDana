@@ -59,22 +59,6 @@ A full-stack web application built collaboratively
 
 ---
 
-## 📚 Bootcamp at Holberton School - What I’ve Learned  
-- Shell scripting
-- Git workflows  
-- C programming fundamentals
-- Python programming fundamentals
-- Python OOP
-- Serialisation / Deserialisation (JSON)
-- Flask web apps & REST API development
-- SQL, schema design, SQLAlchemy ORM
-- JavaScript fundamentals
-- Agile teamwork & peer collaboration
-- Documentation + UML diagrams (Mermaid.js)
-- Debugging, version control & CI pipelines
-
----
-
 ## 🎯 My Fave Quote
 > ✨ **“Stay Hungry. Stay Foolish.”**  
 > <sub>— Steve Jobs</sub>
