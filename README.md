@@ -11,7 +11,7 @@ I’m a **CPA-qualified accountant** who spent four years working with numbers a
 
 That spark led me into the world of **software engineering**, and I haven’t looked back since.
 
-I’m **about to complete a 9-month full-time software engineering bootcamp at Holberton School in February 2026**, where I’ve spent the past months writing code every day, working on real projects, collaborating with peers, solving problems, and pushing myself beyond what I thought I could do.
+I’m **about to complete a 9-month full-time software engineering bootcamp at Holberton Australia in February 2026**, where I’ve spent the past months writing code every day, working on real projects, collaborating with peers, solving problems, and pushing myself beyond what I thought I could do.
 
 I’m now fully transitioning into a career in software development, where I bring curiosity, discipline, accountability, and a love for continuous learning.
 
